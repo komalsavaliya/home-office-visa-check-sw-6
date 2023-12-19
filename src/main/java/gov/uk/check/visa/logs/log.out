@@ -1,0 +1,9 @@
+2023-12-19 13:12:703 INFO  DurationOfStayPage :44 - Select Length of stay longer than 6 months
+2023-12-19 13:12:803 INFO  DurationOfStayPage :44 - Select Length of stay longer than 6 months
+2023-12-19 13:12:962 INFO  DurationOfStayPage :44 - Select Length of stay longer than 6 months
+2023-12-19 13:12:146 INFO  DurationOfStayPage :44 - Select Length of stay longer than 6 months
+2023-12-19 14:12:17 INFO  DurationOfStayPage :44 - Select Length of stay longer than 6 months
+2023-12-19 14:12:172 INFO  DurationOfStayPage :44 - Select Length of stay longer than 6 months
+2023-12-19 14:12:725 INFO  DurationOfStayPage :44 - Select Length of stay longer than 6 months
+2023-12-19 16:12:260 INFO  DurationOfStayPage :24 - Clicking on duration : [[ChromeDriver: chrome on windows (a1677bf52c0fd3ecd5fd09053af0210d)] -> id: response-1]
+2023-12-19 16:12:16 INFO  DurationOfStayPage :29 - Clicking on continue Button : [[ChromeDriver: chrome on windows (a1677bf52c0fd3ecd5fd09053af0210d)] -> xpath: //button[normalize-space()='Continue']]
